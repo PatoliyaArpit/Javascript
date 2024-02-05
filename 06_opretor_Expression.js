@@ -3,9 +3,9 @@ let a=10;
 let b=4;
 let c=6;
 
-// console.log("sum =",a+b)
-// console.log("sub =",a-b)
-// console.log("divison =",a/b)
+ console.log("sum =",a+b)
+ console.log("sub =",a-b)
+ console.log("divison =",a/b)
 // console.log("mul =",a*b)
 // console.log("% =",a%b)
 // console.log("a++ =",a++)//second time number print after number increas show
